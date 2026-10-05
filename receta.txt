@@ -3,3 +3,4 @@ Nombre del platillo: Arroz con Pollo tradicional Costarricense
 Ingredientes: Arroz, pollo, condimentos, sal
 
 NO USAR ARROZ PRECOCIDO
+NO USAR MUCHA AGUA
